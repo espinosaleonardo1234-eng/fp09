@@ -1,0 +1,2 @@
+lavadora 150000.00
+regrigerador 2000.00
